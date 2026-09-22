@@ -1,0 +1,12 @@
+# ambiente de trabalho do agente
+.code-workspace/
+
+# python
+__pycache__/
+*.pyc
+
+# vercel
+.vercel
+
+# node
+node_modules/
